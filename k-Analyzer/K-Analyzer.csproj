@@ -137,6 +137,9 @@
     <Content Include="Pictures &amp; Icons\frmAbout.ico" />
     <Content Include="Pictures &amp; Icons\frmMain.ico" />
     <Content Include="Pictures &amp; Icons\frmOptions.ico" />
+    <Content Include="screenshot.PNG" />
+    <Content Include="screenshot2.PNG" />
+    <Content Include="screenshot3.PNG" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
