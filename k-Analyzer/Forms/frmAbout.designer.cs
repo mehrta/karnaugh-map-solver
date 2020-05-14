@@ -55,9 +55,9 @@ namespace K_Analyzer
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(114, 73);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(93, 13);
+            this.label3.Size = new System.Drawing.Size(59, 13);
             this.label3.TabIndex = 21;
-            this.label3.Text = "All rights reserved.";
+            this.label3.Text = "Year: 2007";
             // 
             // label2
             // 
@@ -89,15 +89,15 @@ namespace K_Analyzer
             this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(113, 22);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 23);
+            this.label1.Size = new System.Drawing.Size(320, 23);
             this.label1.TabIndex = 19;
-            this.label1.Text = "K-Analyzer ";
+            this.label1.Text = "K-Analyzer (Karnaugh Map Solver)";
             // 
             // logoPictureBox
             // 
             this.logoPictureBox.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.logoPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("logoPictureBox.Image")));
-            this.logoPictureBox.Location = new System.Drawing.Point(1, 47);
+            this.logoPictureBox.Location = new System.Drawing.Point(3, 47);
             this.logoPictureBox.Margin = new System.Windows.Forms.Padding(0);
             this.logoPictureBox.Name = "logoPictureBox";
             this.logoPictureBox.Size = new System.Drawing.Size(102, 234);
@@ -109,9 +109,9 @@ namespace K_Analyzer
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(114, 93);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(223, 13);
+            this.label4.Size = new System.Drawing.Size(132, 13);
             this.label4.TabIndex = 21;
-            this.label4.Text = "Created By: Ahmad Tajdini (mehrta@live.com)";
+            this.label4.Text = "Created By: Ahmad Tajdini";
             // 
             // label5
             // 
@@ -127,7 +127,7 @@ namespace K_Analyzer
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(442, 322);
+            this.ClientSize = new System.Drawing.Size(447, 322);
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
